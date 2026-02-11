@@ -15,8 +15,9 @@ A simple hotel management system with functionalities for room reservation, cust
 
 ## How to Run:
 1. Clone the repository:
-```bash
-git clone https://github.com/huda-alq/Hotel-Management-System.git
+ ```bash
+  git clone https://github.com/huda-alq/Hotel-Management-System.git
+```
 
 2. Navigate to the project folder: cd Hotel-Management-System
 
@@ -27,10 +28,14 @@ C++:
  b. Run the compiled program:
 ./hotel
 
-
 Python:
 Run the Python script:
 python HotelManagementSystem_python.py
+
+#Author:
+Huda Alquzah
+GitHub: https://github.com/huda-alq
+LinkedIn: https://www.linkedin.com/in/huda-alquzah-925b4a335/
 
 
 
