@@ -16,6 +16,6 @@ A simple hotel management system with functionalities for room reservation, cust
 ## How to Run
 ### For C++:
 1. Clone the repository
-2. Compile using a C++ compiler:
-   ```bash
-   g++ HotelManagementSystem_c++.cpp -o hotel
+```bash
+ git clone https://github.com/huda-alq/Hotel-Management-System.git
+
